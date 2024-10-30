@@ -1,0 +1,1 @@
+This is a data analytics project where we are sorting data by using various methods of visualizations and then training models and creating confusion matrix which tells us the number of people who are actually chruning.
